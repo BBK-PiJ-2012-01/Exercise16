@@ -9,8 +9,6 @@ import java.util.List;
 
 import org.junit.Test;
 
-import com.sun.net.httpserver.Authenticator.Success;
-
 public class QuicksortTest {
 
 	@Test
